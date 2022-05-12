@@ -1,0 +1,146 @@
+#suptext1 {
+  font-family: 'Dancing Script';
+}
+
+#mainNav .navbar-brand {
+  color: 93d9ff;
+}
+
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+}
+
+#tit {
+}
+
+#mainNav .navbar-brand {
+  font-family: 'Bad Script';
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.nav-item {
+  font-family: 'Dancing Script';
+  color: rgb(251,184,248);
+}
+
+#dathang:hover {
+  text-decoration: none;
+  color: #fbb8f8;
+}
+
+#dathang {
+  color: #fff;
+  font-family: 'Dancing Script';
+}
+
+#about-us {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/img/two-clear-drinking-glasses-beside-flowers-on-table-2967008.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bg-faded {
+  background-color: #fff;
+}
+
+.rounded {
+  border-radius: .25rem!important;
+}
+
+.rounded.bg-faded {
+  padding-top: 125px;
+  padding-left: 645px;
+}
+
+.section-heading .section-heading-lower {
+  display: block;
+  font-size: 20px;
+  font-weight: 100;
+  opacity: 1;
+}
+
+.section-heading-upper {
+  display: block;
+  font-size: 23px;
+  opacity: 1;
+  font-weight: 800;
+  font-family: 'Damion';
+}
+
+.p-5 {
+}
+
+.section-heading.mb-4.bg-faded {
+  background-color: #FFF;
+  opacity: 0.7;
+  text-align: center;
+  width: fit-content;
+  padding-top: 100px;
+}
+
+rounded .p-5 .text-center.bg-faded {
+  background-color: #fff;
+  width: 300px;
+  font-family: 'Dancing Script';
+  margin-left: 795px;
+  margin-top: 230px;
+  opacity: 0.8;
+}
+
+.section-heading-lower {
+  font-family: 'Dancing Script';
+  font-size: 30px;
+}
+
+.text-center.bg-faded {
+  background-color: #fff;
+  opacity: 0.75;
+  border-radius: 25px;
+}
+
+* {
+}
+
+img, svg {
+}
+
+#ttkm {
+  padding-top: 65px;
+}
+
+#ttkm1 {
+  padding-bottom: 60px;
+  text-align: center;
+}
+
+#hrt {
+}
+
+#tt {
+  font-family: 'Dancing Script';
+}
+
+iframe {
+}
+
+#mr {
+  text-decoration: none;
+}
+
+#mr:hover {
+  color: #fbb8f8;
+}
+
+#cttt {
+  font-family: 'Dancing Script';
+  font-size: 30px;
+}
+
+.card-title {
+  font-size: 20px;
+  font-family: 'Lora';
+}
+

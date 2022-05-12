@@ -1,0 +1,352 @@
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+}
+
+.footer-dark h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.footer-dark ul {
+  padding: 0;
+  list-style: none;
+  line-height: 1.6;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.footer-dark ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.footer-dark ul a:hover {
+  opacity: 0.8;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item:not(.social) {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+}
+
+.footer-dark .item.text {
+  margin-bottom: 36px;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item.text {
+    margin-bottom: 0;
+  }
+}
+
+.footer-dark .item.text p {
+  opacity: 0.6;
+  margin-bottom: 0;
+}
+
+.footer-dark .item.social {
+  text-align: center;
+}
+
+@media (max-width:991px) {
+  .footer-dark .item.social {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.footer-dark .item.social > a {
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
+  margin: 0 8px;
+  color: #fff;
+  opacity: 0.75;
+}
+
+.footer-dark .item.social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-dark .copyright {
+  text-align: center;
+  padding-top: 24px;
+  opacity: 0.3;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+#linkabout {
+  font-family: 'Dancing Script';
+  font-size: 24px;
+}
+
+#linkabout:hover {
+  text-decoration: none;
+  color: #8c2988;
+}
+
+header.masthead .page-heading h1, header.masthead .site-heading h1 {
+  font-family: 'Dancing Script';
+  font-size: 63px;
+}
+
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading {
+  font-family: 'Dancing Script';
+}
+
+#sendMessageButton:hover {
+  background-color: #d072cc;
+}
+
+#sendMessageButton {
+  border-radius: 10px;
+}
+
+.display-4 {
+  font-family: 'Dancing Script';
+}
+
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading {
+  font-size: 34px;
+}
+
+a {
+}
+
+.vt-ht {
+  font-family: 'Open Sans';
+  color: #000000;
+  text-decoration: none;
+  background-color: #fff;
+  opacity: 0.70;
+  border-radius: 10px;
+}
+
+.vt-ht:hover {
+  color: #9e2387;
+  text-decoration: none;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  background-color: #fbb8f8;
+  padding: 10px 20px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+#vt-ht {
+  background-color: #d072cc;
+  padding-top: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  padding-bottom: 4px;
+  color: #fff;
+  border-radius: 10px;
+}
+
+#vt-ht:hover {
+  background-color: #000;
+  padding-top: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  padding-bottom: 4px;
+  color: #fff;
+  border-radius: 10px;
+}
+
+#vt-ht:hover #vt-ht:focus {
+  background-color: #fbb8f8;
+  padding-top: 4px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-decoration: none;
+  padding-bottom: 4px;
+  color: #fff;
+  border-radius: 3px;
+}
+
+#ttv {
+  text-align: center;
+}
+
+.fa.fa-chevron-down {
+  font-size: 42px;
+}
+
+#text-ttv {
+  font-size: 14px;
+}
+
+#ttv {
+  margin-bottom: 50px;
+  position: relative;
+}
+
+#vt-ht1 {
+  font-family: 'Dancing Script';
+  font-size: 52px;
+}
+
+#vttd-text {
+  font-family: 'Open Sans';
+  color: #fbb8f8;
+  font-size: 24px;
+}
+
+#text-td {
+  font-family: 'Archivo Narrow';
+  font-size: 18px;
+}
+
+#containerttv {
+  text-align: left;
+}
+
+.fa.fa-star {
+}
+
+#text-place-ttv {
+  font-family: 'Lora';
+}
+
+p {
+  padding-bottom: 0px;
+}
+
+div {
+  padding-bottom: 5px;
+  padding-top: 10px;
+}
+
+#btn-vtht {
+  float: right;
+}
+
+#block-tdht {
+}
+
+#ttv-container {
+  width: 100%;
+  text-align: start;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btn-rgt {
+  float: right;
+}
+
+.btn-rgt:hover {
+  background-color: #000;
+}
+
+.group-t-b-vtht {
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+}
+
+#btn-12 {
+}
+
+#xt {
+  text-align: center;
+}
+
+#btn-t-gr {
+}
+
+#btn-t-gr {
+  display: inline;
+}
+
+.btn-right {
+  float: right;
+}
+
+.text-tnv:focus, .text-tnv:hover {
+  color: #fbb8f8;
+  text-decoration: none;
+}
+
+#link-btn-1 {
+  float: right;
+  padding: 5px 20px;
+  color: #fff;
+  border-radius: 11px;
+  background-color: #fbb8f8;
+}
+
+#link-btn {
+  float: right;
+  padding: 5px 20px;
+  color: #000;
+}
+
+#link-btn:focus, #link-btn:hover {
+  text-decoration: none;
+  color: #fbb8f8;
+}
+
+#link-btn-1:focus, #link-btn-1:hover {
+  text-decoration: none;
+  color: #fff;
+  background-color: #000;
+  border-radius: 10px;
+}
+
+#plc-dn {
+  font-family: 'Dancing Script';
+  font-size: 46px;
+  color: #fbb8f8;
+}
+
+#rn1 {
+  font-size: medium;
+}
+
+#mtcv {
+  font-family: 'Dancing Script';
+  color: #fbb8f8;
+}
+
+.fa.fa-star {
+  color: #fbb8f8;
+  font-size: 25px;
+}
+
+:root {
+}
+
+p a {
+  text-decoration: none;
+}
+
+p a:hover {
+  color: #fbb8f8;
+  text-decoration: none;
+}
+
